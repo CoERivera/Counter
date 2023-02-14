@@ -18,6 +18,8 @@
 	<div class="container">
 		<h1>Welcome, User!</h1>
 		<a href="/counter">View your counter</a>
+		<a href="/by_two">Increment by two</a> <br />
+		<a href="/reset">Reset counter</a>
 	</div>
 </body>
 </html>

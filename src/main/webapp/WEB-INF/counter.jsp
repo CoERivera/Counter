@@ -21,6 +21,8 @@
 		time(s).<br/>
 		
 		<a href="/">Test another visit?</a>
+		<a href="/by_two">Increment by two</a><br />
+		<a href="/reset">Reset counter</a>
 	</div>
 </body>
 </html>
